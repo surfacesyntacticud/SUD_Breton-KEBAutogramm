@@ -1,9 +1,9 @@
 # **SUD_Breton-KEBAutogramm**
 
 This treebank is a "fork" of the SUD version of the UD treebank [UD_Breton-KEB](https://github.com/UniversalDependencies/UD_Breton-KEB/releases/tag/r2.16).
-The initial data were converted from the UD treebank [SUD data page](https://surfacesyntacticud.github.io/data/) for more details about the conversion..
+The initial data were converted from the UD treebank [SUD data page](https://surfacesyntacticud.github.io/data/) for more details about the conversion.
 
-Fow now, it is used for manual edition of the SUD version of the data, for usage in antoher project.
+Fow now, it is used for manual edition of the SUD version of the data, for usage in another project.
 
 The remaining part of this file is a copy of the original README associated to **UD_Breton-KEB** and so refers to UD.
 
