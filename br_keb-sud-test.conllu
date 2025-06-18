@@ -4089,6 +4089,7 @@
 
 # sent_id = bremaik.vislcg.txt:153:5292
 # text = Er bloavezh 2057, emañ heol hon c'hoskoriad o vervel.
+# text[eng] = In 2057, the star of our solar system is dying.
 # text[fra] = En 2057 se meurt l'étoile de notre système solaire.
 # labels = to_check
 1-2	Er	_	_	_	_	_	_	_	_
