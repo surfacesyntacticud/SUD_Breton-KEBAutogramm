@@ -1210,7 +1210,7 @@
 
 # sent_id = bremaik.vislcg.txt:29:729
 # text = Un teuliad peder fajennad zo bet gouestlet en niverenn-mañ da Vro-Euskadi.
-# text[fra] = This issue has devoted a four-page dossier to the Basque Country.
+# text[eng] = This issue has devoted a four-page dossier to the Basque Country.
 # text[fra] = Ce numéro a consacré un dossier de quatre pages au Pays Basque.
 # labels = to_check
 1	Un	un	DET	det	_	2	det	_	_
@@ -2363,7 +2363,7 @@
 
 # sent_id = bremaik.vislcg.txt:81:2535
 # text = War an tele e tremen abred-tre d'ar Sadorn neuze, e-tro 7 eur.
-# text[fra] = So she's on TV very early on Saturdays, around 7 o'clock.
+# text[eng] = So she's on TV very early on Saturdays, around 7 o'clock.
 # text[fra] = Alors elle passe très tôt à la télé le samedi, vers 7 heures.
 # labels = to_check
 1	War	war	ADP	pr	_	4	udep	_	_
@@ -3030,7 +3030,7 @@
 
 # sent_id = bremaik.vislcg.txt:108:3601
 # text = Dimerc'her e c'hoario skipailh Roazhon a-enep Lyon.
-# text[fra] = On Wednesday the Rennes team will play against Lyon.
+# text[eng] = On Wednesday the Rennes team will play against Lyon.
 # text[fra] = Mercredi l'équipe de Rennes jouera contre Lyon.
 # labels = to_check
 1	Dimerc'her	dimerc’her	ADV	adv	_	2	mod	_	_
@@ -3530,7 +3530,7 @@
 
 # sent_id = bremaik.vislcg.txt:129:4403
 # text = An teuliad peder fajennad zo gouestlet en niverenn-mañ da zisoc'hoù dilennadegoù kêr ha kanton 2008 e Breizh.
-# text[fra] = The four-page dossier in this issue is dedicated to the results of the 2008 municipal and cantonal elections in Brittany.
+# text[eng] = The four-page dossier in this issue is dedicated to the results of the 2008 municipal and cantonal elections in Brittany.
 # text[fra] = Le dossier de quatre pages est dédié dans ce numéro aux résultats des élections municipales et cantonales 2008 en Bretagne.
 # labels = to_check
 1	An	an	DET	det	_	2	det	_	_
@@ -3600,7 +3600,7 @@
 
 # sent_id = bremaik.vislcg.txt:132:4513
 # text = Ur film a roio levenez d'an holl en desped da bep tra.
-# text[fra] = It's still a movie that will delight everyone.
+# text[eng] = It's still a movie that will delight everyone.
 # text[fra] = C'est un film qui ravira tout le monde malgré tout.
 # labels = to_check
 1	Ur	un	DET	det	_	2	det	_	_
@@ -3805,7 +3805,7 @@
 
 # sent_id = bremaik.vislcg.txt:141:4838
 # text = Digeriñ a ra an diviz war ar perzh a vez roet hiriv d'an arzourien.
-# text[fra] = It opens the discussion on the role that is given to artists today.
+# text[eng] = It opens the discussion on the role that is given to artists today.
 # text[fra] = Il ouvre la discussion sur le rôle qui est aujourd’hui donné aux artistes.
 # labels = to_check
 1	Digeriñ	digeriñ	VERB	vblex	VerbForm=Inf	3	comp:aux	_	_
@@ -4173,7 +4173,7 @@
 
 # sent_id = bremaik.vislcg.txt:157:5415
 # text = Ar Yaou da noz a vo gouestlet, evel warlene, d'ar sonerezh gall.
-# text[fra] = Thursday evening will be dedicated, like last year, to French music.
+# text[eng] = Thursday evening will be dedicated, like last year, to French music.
 # text[fra] = Le jeudi soir sera dédié, comme l'année dernière, à la musique française.
 # labels = to_check
 1	Ar	an	DET	det	_	2	det	_	_
@@ -4899,7 +4899,7 @@
 
 # sent_id = bremaik.vislcg.txt:191:6550
 # text = Emañ ar PS o vont da sevel klemm dirak al lezenn, hervezañ n'eo ket diouzh al lezenn ober seurt traoù.
-# text[fra] = The PS will file a complaint, this being illegal according to it.
+# text[eng] = The PS will file a complaint, this being illegal according to it.
 # text[fra] = Le PS portera plainte, ceci étant illégal selon lui.
 # labels = to_check
 1	Emañ	bezañ	AUX	vbloc	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5110,7 +5110,7 @@
 
 # sent_id = bremaik.vislcg.txt:202:6871
 # text = Emgavioù departamant ar c'hoariva a vo aozet gant Ti ar c'hoariva e Brest, etre ar 1añ hag ar 4 a viz Even, war pevarzek kumun disheñvel e Penn-ar-bed.
-# text[fra] = The Maison du Théâtre in Brest will organize departmental theater meetings in fourteen different municipalities in Finistère from June 1 to 4.
+# text[eng] = The Maison du Théâtre in Brest will organize departmental theater meetings in fourteen different municipalities in Finistère from June 1 to 4.
 # text[fra] = La Maison du théâtre à Brest organisera les rendez-vous départementaux du théâtre sur quatorze communes différentes en Finistère du 1er au 4 juin.
 # labels = to_check
 1	Emgavioù	emgav	NOUN	n	Gender=Masc|Number=Plur	5	subj	_	_
@@ -5200,7 +5200,7 @@
 
 # sent_id = bremaik.vislcg.txt:205:7024
 # text = War tachenn Kerampuilh e vo graet evel boaz.
-# text[fra] = It will be as usual on the pitch of Kerampuilh.
+# text[eng] = It will be as usual on the pitch of Kerampuilh.
 # text[fra] = Ce sera comme habitude sur le terrain de Kerampuilh.
 # labels = to_check
 1	War	war	ADP	pr	_	4	udep	_	_
@@ -9775,7 +9775,7 @@
 
 # sent_id = oab.vislcg.txt:14:409
 # text = Gant Ofis ar Brezhoneg eo bet troet al levr-mañ.
-# text[fra] = This work has been translated by the Office de la Langue Bretonne.
+# text[eng] = This work has been translated by the Office de la Langue Bretonne.
 # text[fra] = Cet ouvrage a été traduit par l'Office de la Langue Bretonne.
 # labels = to_check opab_parallel
 1	Gant	gant	ADP	pr	_	7	comp:obl@agent	_	_
@@ -10622,7 +10622,7 @@
 
 # sent_id = oab.vislcg.txt:61:1773
 # text = an diskoulmoù hag an diaesterioù evit diorren ar c’hinnig
-# text[fra] = obstacles and solutions to the development of the offer
+# text[eng] = obstacles and solutions to the development of the offer
 # text[fra] = les blocages et les solutions au développement de l'offre
 # labels = to_check opab_parallel
 1	an	an	DET	det	Shared=No	2	det	_	_
@@ -10863,7 +10863,7 @@
 
 # sent_id = oab.vislcg.txt:75:2139
 # text = standoù ar c'hevredigezhioù
-# text[fra] = association stands
+# text[eng] = association stands
 # text[fra] = les stands des associations
 # labels = to_check opab_parallel
 1	standoù	stand	NOUN	n	Gender=Masc|Number=Plur	0	root	_	_
@@ -13607,7 +13607,7 @@
 
 # sent_id = wikipedia.vislcg.txt:40:1198
 # text = Ostel an Arc’hant Roazhon a oa an hini kentañ eus Frañs.
-# text[fra] = The Hôtel des Monnaies in Rennes was the first in France.
+# text[eng] = The Hôtel des Monnaies in Rennes was the first in France.
 # text[fra] = L'hôtel des Monnaies à Rennes était le premier de France.
 # labels = to_check
 1	Ostel	ostel	NOUN	n	Gender=Masc|Number=Sing	5	subj	_	_
@@ -13648,7 +13648,7 @@
 
 # sent_id = wikipedia.vislcg.txt:43:1258
 # text = Breizh rannet e pemp departamant
-# text[fra] = Brittany divided into five departments
+# text[eng] = Brittany divided into five departments
 # text[fra] = la Bretagne partagée en cinq départements
 # labels = to_check
 1	Breizh	Breizh	PROPN	np	Number=Sing	0	root	_	_
